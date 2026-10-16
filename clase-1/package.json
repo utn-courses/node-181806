@@ -1,0 +1,23 @@
+{
+  "name": "introduccion-node",
+  "version": "1.0.0",
+  "description": "Clase 1 de desarrollo backend, hoy aprenderemos las principales caracteristicas de Node",
+  "keywords": [
+    "node",
+    "backend",
+    "utn",
+    "npm"
+  ],
+  "license": "ISC",
+  "author": "gabialberini733@gmail.com",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node http.js",
+    "test": "...",
+    "start": "..."
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
