@@ -1,0 +1,21 @@
+{
+  "name": "api-film",
+  "version": "1.0.0",
+  "description": "Una api simple para gestionar peliculas",
+  "keywords": [
+    "node",
+    "api",
+    "backend",
+    "utn"
+  ],
+  "license": "ISC",
+  "author": "gabialberini733@gmail.com",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
